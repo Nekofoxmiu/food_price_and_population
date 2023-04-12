@@ -1,8 +1,8 @@
 # food_price_and_population
- School statistics project
-
-XLSX解析示例
-
+ School statistics project  
+  
+XLSX解析示例  (JSON格式)
+```JSON
 [
     {
         "A": "Index",
@@ -541,3 +541,4 @@ XLSX解析示例
         "BM": 0
     }
     ]
+    ```
