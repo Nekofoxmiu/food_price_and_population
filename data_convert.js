@@ -5,6 +5,7 @@ import { setDefaultResultOrder } from 'dns/promises';
 
 /**
  * 解析 CSV 檔案
+ * generate by chatgpt
  * @param {string} filePath 檔案路徑
  * @returns {array} 解析後的資料陣列
  */
