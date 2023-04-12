@@ -36,13 +36,14 @@ export function parseXLSX(filePath, titlerow) {
         filePath, 
         sheet: 0, 
         withHeader: false,
-        numberFormat:"excel"
+        numberFormat: "standard"
     })
         .then((stream) => {
           stream.on("data", (data) => {
             if(row_count > titlerow - 2){
                 result.push(data.formatted.obj);
             }
+            //console.log(data.formatted)
             process.stdout.write(`\x1b[33mprocess row: ${row_count}\x1b[0m\x1b[K\r`);
             row_count++;
           });
