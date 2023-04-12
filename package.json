@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Nekofoxmiu/food_price_and_population#readme",
   "dependencies": {
     "csv-parse": "^5.3.6",
+    "food_price_and_population": "github:Nekofoxmiu/food_price_and_population",
     "xlstream": "^2.5.3",
     "xlsx": "^0.18.5"
   }

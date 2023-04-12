@@ -40,7 +40,7 @@ export function parseXLSX(filePath, titlerow) {
     })
         .then((stream) => {
           stream.on("data", (data) => {
-            if(row_count > titlerow){
+            if(row_count > titlerow - 1){
                 result.push(data.formatted.obj);
             }
             process.stdout.write(`\x1b[33mprocess row: ${row_count}\x1b[0m\x1b[K\r`);
