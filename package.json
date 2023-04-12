@@ -1,0 +1,25 @@
+{
+  "name": "food_price_and_population",
+  "version": "1.0.0",
+  "description": "School statistics project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nekofoxmiu/food_price_and_population.git"
+  },
+  "author": "藍于珺、陳沛宏、任珮瑜、邱筱文、黃峻緯",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nekofoxmiu/food_price_and_population/issues"
+  },
+  "homepage": "https://github.com/Nekofoxmiu/food_price_and_population#readme",
+  "dependencies": {
+    "csv-parse": "^5.3.6",
+    "xlstream": "^2.5.3",
+    "xlsx": "^0.18.5"
+  }
+}
