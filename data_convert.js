@@ -25,6 +25,7 @@ export async function parseCSV(filePath) {
 /**
  * 解析 XLSX 檔案並轉換成與 parseCSV 相同的格式
  * @param {string} filePath 檔案路徑
+ * @param {number} titlerow 標題列數
  * @returns {Promise} 解析後的資料陣列
  */
 export function parseXLSX(filePath, titlerow) {
