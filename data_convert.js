@@ -1,7 +1,5 @@
 import xlstream from 'xlstream';
 import { parse as csvParse } from 'csv-parse';
-import fs, { copyFileSync } from 'fs';
-import { setDefaultResultOrder } from 'dns/promises';
 
 /**
  * 解析 CSV 檔案
