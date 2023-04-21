@@ -21,6 +21,7 @@
     "axios": "^1.3.6",
     "cheerio": "^1.0.0-rc.12",
     "csv-parse": "^5.3.6",
-    "xlstream": "^2.5.3"
+    "xlstream": "^2.5.3",
+    "yargs": "^17.7.1"
   }
 }

@@ -42,16 +42,29 @@ export async function parseCSV_withURL(filePath) {
         for (const item of data) {
           item.unix_start_date = Math.floor(Date.parse(item.start_date) / 1000);
           item.unix_end_date = Math.floor(Date.parse(item.end_date) / 1000);
-          delete item.start_date;
-          delete item.end_date;
         }
+        for (let i = 0; data.length > i; i++) {
+          let contentUrl = data[i].json["@graph"].find(obj => obj["schema:contentUrl"])["schema:contentUrl"];
+          delete data[i].json;
+          data[i].csv_url = contentUrl;
+      }
+      const result = data.reduce((obj, item) => {
+          obj[item.countryiso3] = item;
+          return obj;
+        }, {});
         process.stdout.write("\n");
-        resolve(data);
+        resolve(result);
       }
     });
   });
 }
 
+/**
+ * 解析 CSV 檔案
+ * generate by chatgpt
+ * @param {string} filePath 檔案路徑
+ * @returns {array} 解析後的資料陣列
+ */
 export async function parseCSV(filePath, country) {
   const csvData = fs.readFileSync(filePath, 'utf8').toString();
   return new Promise(async (resolve, reject) => {
