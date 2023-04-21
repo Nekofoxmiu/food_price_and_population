@@ -30,14 +30,16 @@ export async function parseCSV_withURL(filePath) {
         reject(err);
       } else {
         // 解析 LD+JSON 物件
+        let json = [];
+        for (const item of data) {
+          json.push(fetchJSON(item.url));
+        }
         let counting = 0;
         for (const item of data) {
           process.stdout.write(`\x1b[33mprocess row: ${counting}\x1b[0m\x1b[K\r`);
-          const json = await fetchJSON(item.url);
-          item.json = json;
+          item.json = await json[counting];
           counting++;
         }
-
         // 轉換時間為 Unix timestamp
         for (const item of data) {
           item.unix_start_date = Math.floor(Date.parse(item.start_date) / 1000);

@@ -7,8 +7,9 @@ import yargs from "yargs"
 import {hideBin} from "yargs/helpers"
 
 const rootFloder = `${path.dirname(fileURLToPath(import.meta.url))}`;
-const XLSX_path = path.join(rootFloder, 'dataset', 'WPP2022_GEN_F01_DEMOGRAPHIC_INDICATORS_COMPACT_REV1.xlsx');
-const CSV_path = path.join(rootFloder, 'dataset', 'wfp_countries_global.csv');
+console.log("資料存在：", rootFloder, " 要清除乾淨請至此資料夾刪除");
+const openplace = process.cwd();
+
 
 // 定義 yargs 參數
 const argv = yargs(hideBin(process.argv))
@@ -20,17 +21,17 @@ const argv = yargs(hideBin(process.argv))
     .option('function', {
         alias: 'f',
         describe: '功能選擇',
-        choices: ['app_xlsx', 'app_csv', 'specific_csv'], // 可選項目
+        choices: ['xlsx', 'csv', 'specific_csv'], // 可選項目
         demandOption: true // 要求必須輸入
     })
     .argv;
 
 // 執行對應的功能
 switch (argv.function) {
-    case 'app_xlsx':
+    case 'xlsx':
         await app_xlsx(argv.input);
         break;
-    case 'app_csv':
+    case 'csv':
         await app_csv(argv.input);
         break;
     case 'specific_csv':
@@ -61,8 +62,8 @@ async function app_xlsx(file_path) {
             }
             return obj;
         }, {});
-        await fs.writeFile(path.join(rootFloder, 'dataset', 'population_countryiso3.json'), JSON.stringify(nonEmptyCountryISO3, null, "    "));
-        await fs.writeFile(path.join(rootFloder, 'dataset', 'population_No_countryiso3.json'), JSON.stringify(emptyCountryISO3, null, "    "));
+        await fs.writeFile(path.join(openplace, 'population_countryiso3.json'), JSON.stringify(nonEmptyCountryISO3, null, "    "));
+        await fs.writeFile(path.join(openplace, 'population_No_countryiso3.json'), JSON.stringify(emptyCountryISO3, null, "    "));
         process.stdout.write(`\x1b[33mfinish\x1b[0m\x1b[K\n`);
     } catch (err) {
         console.log(err);
@@ -76,7 +77,7 @@ async function app_csv(file_path) {
     try {
         console.log(file_path)
         let CSV_data = await parseCSV_withURL(file_path);
-        await fs.writeFile(path.join(rootFloder, 'dataset', 'wfp_countries_global.json'), JSON.stringify(CSV_data, null, "    "));
+        await fs.writeFile(path.join(openplace, 'wfp_countries_global.json'), JSON.stringify(CSV_data, null, "    "));
         process.stdout.write(`\x1b[33mfinish\x1b[0m\x1b[K\n`);
     } catch (err) {
         console.log(err);
@@ -90,7 +91,7 @@ async function specific_csv(file_path, country) {
     try {
         console.log(file_path)
         let CSV_data = await parseCSV(file_path, country);
-        await fs.writeFile(path.join(rootFloder, 'dataset', `wfp_countries_${country}.json`), JSON.stringify(CSV_data, null, "    "));
+        await fs.writeFile(path.join(openplace, `wfp_countries_${country}.json`), JSON.stringify(CSV_data, null, "    "));
         await first_csv_prase_url();
         process.stdout.write(`\x1b[33mfinish\x1b[0m\x1b[K\n`);
     } catch (err) {
