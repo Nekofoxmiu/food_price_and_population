@@ -1,5 +1,20 @@
 import xlstream from 'xlstream';
 import { parse as csvParse } from 'csv-parse';
+import fs from 'fs';
+import axios from 'axios';
+import cheerio from 'cheerio';
+
+/**
+ * 取得網頁內容中的 LD+JSON 物件
+ * @param {string} url 要解析的網址
+ * @returns {Promise} Promise 物件，解析出的 JSON 物件會在 resolve 中回傳
+ */
+async function fetchJSON(url) {
+  const html = await axios(url).then((res) => {return res.data.toString()});
+  const $ = cheerio.load(html);
+  const script = $('script[type="application/ld+json"]').html();
+  return JSON.parse(script);
+}
 
 /**
  * 解析 CSV 檔案
@@ -7,10 +22,40 @@ import { parse as csvParse } from 'csv-parse';
  * @param {string} filePath 檔案路徑
  * @returns {array} 解析後的資料陣列
  */
-export async function parseCSV(filePath) {
-  const csvData = fs.readFileSync(filePath, 'utf8');
-  return new Promise((resolve, reject) => {
-    csvParse(csvData, { columns: true }, (err, data) => {
+export async function parseCSV_withURL(filePath) {
+  const csvData = fs.readFileSync(filePath, 'utf8').toString();
+  return new Promise(async (resolve, reject) => {
+    csvParse(csvData, { columns: true, comment: '#' }, async (err, data) => {
+      if (err) {
+        reject(err);
+      } else {
+        // 解析 LD+JSON 物件
+        let counting = 0;
+        for (const item of data) {
+          process.stdout.write(`\x1b[33mprocess row: ${counting}\x1b[0m\x1b[K\r`);
+          const json = await fetchJSON(item.url);
+          item.json = json;
+          counting++;
+        }
+
+        // 轉換時間為 Unix timestamp
+        for (const item of data) {
+          item.unix_start_date = Math.floor(Date.parse(item.start_date) / 1000);
+          item.unix_end_date = Math.floor(Date.parse(item.end_date) / 1000);
+          delete item.start_date;
+          delete item.end_date;
+        }
+        process.stdout.write("\n");
+        resolve(data);
+      }
+    });
+  });
+}
+
+export async function parseCSV(filePath, country) {
+  const csvData = fs.readFileSync(filePath, 'utf8').toString();
+  return new Promise(async (resolve, reject) => {
+    csvParse(csvData, { columns: true, comment: '#' }, async (err, data) => {
       if (err) {
         reject(err);
       } else {
