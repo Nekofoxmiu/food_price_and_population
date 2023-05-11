@@ -1,0 +1,779 @@
+date,admin1,admin2,market,latitude,longitude,category,commodity,unit,priceflag,pricetype,currency,price,usdprice
+#date,#adm1+name,#adm2+name,#loc+market+name,#geo+lat,#geo+lon,#item+type,#item+name,#item+unit,#item+price+flag,#item+price+type,#currency,#value,#value+usd
+2008-01-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,5.75,0.5227
+2008-01-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,6.0,0.5454
+2008-01-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,6.0,0.5454
+2008-01-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,6.25,0.5681
+2008-01-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,4.88,0.4436
+2008-01-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.5,0.6818
+2008-02-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,6.0,0.5437
+2008-02-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.75,0.5211
+2008-02-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,6.0,0.5437
+2008-02-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,7.0,0.6343
+2008-02-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,4.5,0.4078
+2008-02-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.5,0.6797
+2008-03-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,6.25,0.573
+2008-03-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,6.0,0.5501
+2008-03-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,6.0,0.5501
+2008-03-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,7.0,0.6418
+2008-03-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,4.5,0.4126
+2008-03-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,8.25,0.7564
+2008-04-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,6.25,0.6108
+2008-04-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,6.0,0.5863
+2008-04-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,6.0,0.5863
+2008-04-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,7.0,0.6841
+2008-04-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.0,0.4886
+2008-04-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,9.5,0.9284
+2008-05-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,6.25,0.6133
+2008-05-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,7.75,0.7605
+2008-05-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,6.0,0.5888
+2008-05-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,7.0,0.6869
+2008-05-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.75,0.5642
+2008-05-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,9.5,0.9322
+2008-06-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,6.0,0.5948
+2008-06-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,6.0,0.5948
+2008-06-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,6.0,0.5948
+2008-06-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,7.0,0.6939
+2008-06-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,8.25,0.8178
+2008-06-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,9.5,0.9417
+2008-07-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,6.0,0.6202
+2008-07-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.0,0.5168
+2008-07-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,6.0,0.6202
+2008-07-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,7.0,0.7235
+2008-07-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,6.75,0.6977
+2008-07-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,9.5,0.9819
+2008-08-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,6.0,0.6223
+2008-08-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.0,0.5186
+2008-08-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,6.0,0.6223
+2008-08-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,7.0,0.726
+2008-08-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.0,0.5186
+2008-08-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,6.25,0.6482
+2008-09-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,6.0,0.6283
+2008-09-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,6.0,0.6283
+2008-09-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,6.0,0.6283
+2008-09-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,7.0,0.733
+2008-09-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.0,0.5236
+2008-09-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,6.12,0.6409
+2008-10-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,4.5,0.4386
+2008-10-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.5,0.5361
+2008-10-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,5.0,0.4873
+2008-10-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,4.75,0.463
+2008-10-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,4.88,0.4756
+2008-10-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,6.0,0.5848
+2008-11-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.0,0.2893
+2008-11-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,6.0,0.5786
+2008-11-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,5.0,0.4822
+2008-11-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,2.5,0.2411
+2008-11-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,4.75,0.4581
+2008-11-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,6.0,0.5786
+2008-12-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.0,0.3006
+2008-12-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.0,0.501
+2008-12-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,5.0,0.501
+2008-12-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,2.5,0.2505
+2008-12-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,4.88,0.489
+2008-12-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,6.0,0.6012
+2009-01-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,2.25,0.2178
+2009-01-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,4.75,0.4598
+2009-01-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,5.5,0.5324
+2009-01-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,2.25,0.2178
+2009-01-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,4.95,0.4792
+2009-01-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,5.88,0.5692
+2009-02-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,1.75,0.1651
+2009-02-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.0,0.4718
+2009-02-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,5.75,0.5426
+2009-02-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,2.0,0.1887
+2009-02-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,4.9,0.4624
+2009-02-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,5.75,0.5426
+2009-03-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,1.75,0.1619
+2009-03-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,4.5,0.4164
+2009-03-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,5.5,0.509
+2009-03-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,2.0,0.1851
+2009-03-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.15,0.4766
+2009-03-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,5.8,0.5367
+2009-04-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,1.75,0.1581
+2009-04-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,4.75,0.4291
+2009-04-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,5.5,0.4968
+2009-04-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,1.88,0.1698
+2009-04-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.28,0.477
+2009-04-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,6.62,0.598
+2009-05-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,1.75,0.1586
+2009-05-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.5,0.4985
+2009-05-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,5.5,0.4985
+2009-05-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,1.75,0.1586
+2009-05-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,7.15,0.648
+2009-05-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.5,0.6797
+2009-06-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,1.9,0.1731
+2009-06-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.5,0.501
+2009-06-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,5.5,0.501
+2009-06-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,1.75,0.1594
+2009-06-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.62,0.512
+2009-06-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,6.75,0.6149
+2009-07-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,1.9,0.173
+2009-07-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.5,0.5008
+2009-07-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,5.5,0.5008
+2009-07-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,1.65,0.1502
+2009-07-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,4.38,0.3988
+2009-07-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,6.25,0.5691
+2009-08-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,2.0,0.1784
+2009-08-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.5,0.4907
+2009-08-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,5.5,0.4907
+2009-08-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,1.65,0.1472
+2009-08-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,4.5,0.4015
+2009-08-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,6.25,0.5576
+2009-09-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,2.0,0.1829
+2009-09-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.5,0.503
+2009-09-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,5.5,0.503
+2009-09-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,1.65,0.1509
+2009-09-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,4.5,0.4115
+2009-09-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,6.25,0.5716
+2009-10-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,2.1,0.1926
+2009-10-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.5,0.5043
+2009-10-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,5.0,0.4585
+2009-10-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,1.65,0.1513
+2009-10-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,4.5,0.4126
+2009-10-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,6.25,0.5731
+2009-11-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,2.1,0.1895
+2009-11-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,6.0,0.5415
+2009-11-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,4.5,0.4061
+2009-11-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,2.15,0.194
+2009-11-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,4.75,0.4287
+2009-11-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,5.0,0.4512
+2009-12-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,2.1,0.1735
+2009-12-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,6.0,0.4957
+2009-12-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,4.5,0.3717
+2009-12-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,1.9,0.157
+2009-12-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,4.75,0.3924
+2009-12-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,4.5,0.3717
+2010-01-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,2.1,0.1743
+2010-01-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,6.0,0.4979
+2010-01-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,4.5,0.3734
+2010-01-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,1.9,0.1577
+2010-01-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,6.0,0.4979
+2010-01-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,2.03,0.1685
+2010-01-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,4.5,0.3734
+2010-02-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,2.1,0.167
+2010-02-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,7.0,0.5566
+2010-02-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,4.5,0.3578
+2010-02-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,1.9,0.1511
+2010-02-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,6.5,0.5168
+2010-02-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,1.9,0.1511
+2010-02-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,4.5,0.3578
+2010-03-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,2.55,0.207
+2010-03-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,7.0,0.5683
+2010-03-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,4.5,0.3653
+2010-03-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,2.75,0.2233
+2010-03-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,6.62,0.5374
+2010-03-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,1.9,0.1542
+2010-03-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,4.5,0.3653
+2010-04-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,2.55,0.2063
+2010-04-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,7.0,0.5664
+2010-04-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,4.75,0.3843
+2010-04-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.38,0.2735
+2010-04-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,6.5,0.5259
+2010-04-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,3.25,0.263
+2010-04-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,6.0,0.4855
+2010-05-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,2.55,0.2006
+2010-05-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,7.0,0.5508
+2010-05-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,4.75,0.3737
+2010-05-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.25,0.2557
+2010-05-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,6.0,0.4721
+2010-05-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,3.25,0.2557
+2010-05-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,5.0,0.3934
+2010-06-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,2.55,0.2011
+2010-06-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,7.0,0.5521
+2010-06-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,4.75,0.3747
+2010-06-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.25,0.2563
+2010-06-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,6.0,0.4733
+2010-06-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,3.25,0.2563
+2010-06-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,5.0,0.3944
+2010-07-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,2.75,0.2235
+2010-07-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,6.25,0.508
+2010-07-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,4.75,0.3861
+2010-07-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.25,0.2642
+2010-07-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.5,0.447
+2010-07-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,2.75,0.2235
+2010-07-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,5.0,0.4064
+2010-08-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,2.7,0.2207
+2010-08-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.0,0.4086
+2010-08-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,4.75,0.3882
+2010-08-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.12,0.255
+2010-08-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,4.75,0.3882
+2010-08-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,2.2,0.1798
+2010-08-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,5.38,0.4397
+2010-09-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,2.7,0.222
+2010-09-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,4.75,0.3905
+2010-09-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,4.75,0.3905
+2010-09-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.0,0.2466
+2010-09-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.25,0.4316
+2010-09-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,2.15,0.1768
+2010-09-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,6.5,0.5344
+2010-10-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,2.5,0.2188
+2010-10-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.5,0.4814
+2010-10-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,5.0,0.4376
+2010-10-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.25,0.2844
+2010-10-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.5,0.4814
+2010-10-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,2.08,0.182
+2010-10-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.0,0.6126
+2010-11-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,2.5,0.216
+2010-11-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.0,0.432
+2010-11-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,5.0,0.432
+2010-11-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,2.5,0.216
+2010-11-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.25,0.4536
+2010-11-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,2.75,0.2376
+2010-11-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,5.0,0.432
+2010-12-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,2.5,0.2128
+2010-12-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.75,0.4894
+2010-12-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,5.0,0.4256
+2010-12-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.0,0.2554
+2010-12-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.25,0.4469
+2010-12-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,3.08,0.2622
+2010-12-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,5.0,0.4256
+2011-01-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,2.5,0.2071
+2011-01-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,6.88,0.57
+2011-01-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,5.0,0.4143
+2011-01-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.25,0.2693
+2011-01-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,7.5,0.6214
+2011-01-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,2.5,0.2071
+2011-01-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,4.5,0.3728
+2011-02-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,2.65,0.2256
+2011-02-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,7.25,0.6173
+2011-02-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,5.12,0.4359
+2011-02-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.25,0.2767
+2011-02-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,8.0,0.6811
+2011-02-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,2.5,0.2129
+2011-02-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,4.5,0.3831
+2011-03-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,2.65,0.226
+2011-03-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,8.5,0.7249
+2011-03-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,5.5,0.469
+2011-03-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.25,0.2772
+2011-03-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,8.0,0.6822
+2011-03-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,2.5,0.2132
+2011-03-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,4.5,0.3838
+2011-04-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,2.65,0.226
+2011-04-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,8.5,0.725
+2011-04-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,5.5,0.4691
+2011-04-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.25,0.2772
+2011-04-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,8.0,0.6824
+2011-04-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,3.25,0.2772
+2011-04-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,6.5,0.5544
+2011-05-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.2,0.2758
+2011-05-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,9.25,0.7971
+2011-05-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,5.5,0.474
+2011-05-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.5,0.3016
+2011-05-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,7.5,0.6463
+2011-05-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,3.15,0.2715
+2011-05-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,6.5,0.5602
+2011-06-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.2,0.2826
+2011-06-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,10.0,0.883
+2011-06-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,5.5,0.4857
+2011-06-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.5,0.3091
+2011-06-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,10.0,0.883
+2011-06-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,3.15,0.2781
+2011-06-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,6.5,0.574
+2011-07-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.1,0.2715
+2011-07-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,7.0,0.6131
+2011-07-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,5.75,0.5036
+2011-07-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.5,0.3065
+2011-07-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,6.0,0.5255
+2011-07-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,3.15,0.2759
+2011-07-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,6.5,0.5693
+2011-08-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.1,0.2779
+2011-08-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.5,0.493
+2011-08-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,5.75,0.5154
+2011-08-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.5,0.3137
+2011-08-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,4.25,0.3809
+2011-08-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,3.15,0.2823
+2011-08-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,6.5,0.5826
+2011-09-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.1,0.2695
+2011-09-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.5,0.4781
+2011-09-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,5.75,0.4999
+2011-09-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,5.5,0.4781
+2011-09-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,4.45,0.3869
+2011-09-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,4.88,0.4242
+2011-09-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.75,0.6737
+2011-10-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.1,0.2635
+2011-10-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,4.75,0.4038
+2011-10-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,5.75,0.4888
+2011-10-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,4.5,0.3825
+2011-10-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,3.88,0.3298
+2011-10-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,4.5,0.3825
+2011-10-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.0,0.595
+2011-11-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.1,0.2702
+2011-11-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,4.5,0.3922
+2011-11-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,8.25,0.719
+2011-11-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,4.0,0.3486
+2011-11-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,3.7,0.3225
+2011-11-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,4.0,0.3486
+2011-11-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.0,0.6101
+2011-12-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.1,0.2666
+2011-12-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,4.3,0.3697
+2011-12-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,8.25,0.7094
+2011-12-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,4.0,0.3439
+2011-12-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,3.75,0.3224
+2011-12-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,3.5,0.3009
+2011-12-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.0,0.6019
+2012-01-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.1,0.2639
+2012-01-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,3.5,0.2979
+2012-01-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,8.25,0.7022
+2012-01-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,4.0,0.3405
+2012-01-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,2.95,0.2511
+2012-01-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,3.5,0.2979
+2012-01-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.0,0.5958
+2012-02-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.1,0.2681
+2012-02-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,3.5,0.3027
+2012-02-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,8.25,0.7136
+2012-02-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,4.0,0.346
+2012-02-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,3.4,0.2941
+2012-02-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,3.5,0.3027
+2012-02-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.0,0.6055
+2012-03-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.1,0.2663
+2012-03-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,3.5,0.3006
+2012-03-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,8.25,0.7086
+2012-03-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,4.0,0.3436
+2012-03-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,3.32,0.2852
+2012-03-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,3.5,0.3006
+2012-03-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.0,0.6013
+2012-04-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.1,0.2628
+2012-04-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,3.5,0.2967
+2012-04-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,8.25,0.6994
+2012-04-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,4.0,0.3391
+2012-04-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,3.5,0.2967
+2012-04-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,3.5,0.2967
+2012-04-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.0,0.5934
+2012-05-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.1,0.2673
+2012-05-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,3.5,0.3018
+2012-05-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,8.25,0.7113
+2012-05-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,4.0,0.3449
+2012-05-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,2.2,0.1897
+2012-05-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,3.5,0.3018
+2012-05-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.0,0.6036
+2012-06-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,4.0,0.3401
+2012-06-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,4.0,0.3401
+2012-06-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,3.5,0.2976
+2012-07-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.48,0.2807
+2012-07-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,4.33,0.3493
+2012-07-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,4.5,0.363
+2012-07-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,3.75,0.3025
+2012-07-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,4.13,0.3331
+2012-08-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.78,0.3097
+2012-08-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,4.67,0.3827
+2012-08-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,9.25,0.7579
+2012-08-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,4.67,0.3827
+2012-08-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,4.17,0.3417
+2012-08-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,4.58,0.3753
+2012-08-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.5,0.6146
+2012-09-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,4.32,0.3476
+2012-09-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.0,0.4023
+2012-09-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,9.25,0.7443
+2012-09-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,4.92,0.3959
+2012-09-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.0,0.4023
+2012-09-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,4.67,0.3757
+2012-09-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.5,0.6034
+2012-10-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,4.34,0.3652
+2012-10-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.0,0.4208
+2012-10-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,9.19,0.7734
+2012-10-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,5.0,0.4208
+2012-10-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,4.56,0.3837
+2012-10-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,4.56,0.3837
+2012-10-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.5,0.6312
+2012-11-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,4.25,0.3513
+2012-11-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,4.5,0.372
+2012-11-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,9.0,0.744
+2012-11-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,5.0,0.4133
+2012-11-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,4.75,0.3927
+2012-11-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,4.56,0.377
+2012-11-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.75,0.6407
+2012-12-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,4.25,0.3476
+2012-12-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.25,0.4294
+2012-12-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,9.0,0.7362
+2012-12-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,5.0,0.409
+2012-12-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,4.94,0.4041
+2012-12-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,4.5,0.3681
+2012-12-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.5,0.6135
+2013-01-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,4.45,0.373
+2013-01-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,6.0,0.5029
+2013-01-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,9.1,0.7627
+2013-01-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,5.0,0.4191
+2013-01-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,4.8,0.4023
+2013-01-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,4.75,0.3981
+2013-01-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.5,0.6286
+2013-02-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,4.88,0.4123
+2013-02-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,6.0,0.5069
+2013-02-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,9.5,0.8026
+2013-02-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,5.0,0.4224
+2013-02-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.12,0.4325
+2013-02-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,5.0,0.4224
+2013-02-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.5,0.6336
+2013-03-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,4.92,0.4089
+2013-03-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,6.0,0.4987
+2013-03-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,9.5,0.7896
+2013-03-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,5.0,0.4156
+2013-03-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.0,0.4156
+2013-03-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,5.0,0.4156
+2013-03-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.5,0.6233
+2013-04-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,5.0,0.4161
+2013-04-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,6.0,0.4993
+2013-04-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,9.5,0.7905
+2013-04-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,5.0,0.4161
+2013-04-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,6.19,0.5151
+2013-04-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,5.0,0.4161
+2013-04-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.5,0.6241
+2013-05-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,5.0,0.4142
+2013-05-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,9.67,0.8011
+2013-05-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,9.5,0.787
+2013-05-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,5.0,0.4142
+2013-05-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,10.25,0.8491
+2013-05-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,5.0,0.4142
+2013-05-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.17,0.594
+2013-06-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,4.75,0.3794
+2013-06-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,8.0,0.6389
+2013-06-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,9.5,0.7587
+2013-06-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,5.0,0.3993
+2013-06-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,10.5,0.8386
+2013-06-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,5.0,0.3993
+2013-06-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.0,0.5591
+2013-07-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,4.58,0.3702
+2013-07-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,6.5,0.5254
+2013-07-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,9.5,0.7679
+2013-07-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,5.0,0.4041
+2013-07-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,6.62,0.5351
+2013-07-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,5.0,0.4041
+2013-07-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.25,0.586
+2013-08-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,4.0,0.3194
+2013-08-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.5,0.4392
+2013-08-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,9.5,0.7586
+2013-08-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,5.0,0.3993
+2013-08-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.25,0.4192
+2013-08-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,4.75,0.3793
+2013-08-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.0,0.559
+2013-09-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,4.0,0.3105
+2013-09-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,4.56,0.354
+2013-09-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,9.25,0.718
+2013-09-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,5.0,0.3881
+2013-09-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,4.81,0.3734
+2013-09-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,4.5,0.3493
+2013-09-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.0,0.5434
+2013-10-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.3,0.2558
+2013-10-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,4.5,0.3488
+2013-10-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,9.4,0.7286
+2013-10-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,4.7,0.3643
+2013-10-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.15,0.3992
+2013-10-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,4.35,0.3372
+2013-10-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.0,0.5426
+2013-11-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,2.25,0.1774
+2013-11-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,6.0,0.473
+2013-11-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,9.5,0.7489
+2013-11-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,4.19,0.3303
+2013-11-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,6.25,0.4927
+2013-11-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,3.88,0.3059
+2013-11-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.0,0.5518
+2013-12-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,1.85,0.1413
+2013-12-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,6.0,0.4583
+2013-12-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,9.5,0.7257
+2013-12-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.25,0.2483
+2013-12-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,6.33,0.4835
+2013-12-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,3.5,0.2673
+2013-12-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.0,0.5347
+2014-01-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,2.01,0.1558
+2014-01-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,6.5,0.5038
+2014-01-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,9.5,0.7363
+2014-01-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.31,0.2565
+2014-01-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,7.5,0.5813
+2014-01-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,3.5,0.2713
+2014-01-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,6.95,0.5386
+2014-02-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,2.06,0.1521
+2014-02-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,7.33,0.5413
+2014-02-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,9.5,0.7016
+2014-02-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.19,0.2356
+2014-02-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,7.5,0.5539
+2014-02-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,3.69,0.2725
+2014-02-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.0,0.517
+2014-03-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,2.25,0.1659
+2014-03-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,7.5,0.553
+2014-03-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,9.5,0.7005
+2014-03-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.75,0.2765
+2014-03-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,7.38,0.5442
+2014-03-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,3.94,0.2905
+2014-03-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.0,0.5161
+2014-04-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,2.25,0.1704
+2014-04-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,7.5,0.5679
+2014-04-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,9.5,0.7194
+2014-04-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.5,0.265
+2014-04-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,7.12,0.5391
+2014-04-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,3.81,0.2885
+2014-04-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.0,0.5301
+2014-05-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,2.25,0.168
+2014-05-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,10.88,0.8125
+2014-05-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,9.5,0.7095
+2014-05-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.34,0.2494
+2014-05-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,7.88,0.5885
+2014-05-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,3.56,0.2659
+2014-05-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.0,0.5228
+2014-06-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,2.25,0.1616
+2014-06-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,8.0,0.5746
+2014-06-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,9.5,0.6823
+2014-06-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.25,0.2334
+2014-06-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,7.17,0.515
+2014-06-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,3.75,0.2693
+2014-06-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.0,0.5028
+2014-07-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,2.25,0.1633
+2014-07-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,7.5,0.5443
+2014-07-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,9.5,0.6895
+2014-07-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.2,0.2323
+2014-07-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,6.8,0.4935
+2014-07-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,3.6,0.2613
+2014-07-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.0,0.5081
+2014-08-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,2.25,0.1667
+2014-08-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.63,0.4172
+2014-08-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,9.12,0.6758
+2014-08-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,2.81,0.2082
+2014-08-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.38,0.3986
+2014-08-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,3.25,0.2408
+2014-08-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.0,0.5187
+2014-09-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,2.25,0.1604
+2014-09-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,4.0,0.2852
+2014-09-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,9.0,0.6416
+2014-09-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,2.5,0.1782
+2014-09-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.42,0.3864
+2014-09-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,2.5,0.1782
+2014-09-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.0,0.499
+2014-10-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,2.08,0.144
+2014-10-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,4.0,0.2768
+2014-10-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,9.0,0.6229
+2014-10-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,2.5,0.173
+2014-10-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,4.75,0.3287
+2014-10-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,2.58,0.1786
+2014-10-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.0,0.4845
+2014-11-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,2.33,0.1567
+2014-11-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,4.38,0.2946
+2014-11-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,9.0,0.6054
+2014-11-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,2.5,0.1682
+2014-11-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.0,0.3363
+2014-11-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,2.5,0.1682
+2014-11-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.0,0.4709
+2014-12-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,2.5,0.1644
+2014-12-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.0,0.3288
+2014-12-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,9.0,0.5918
+2014-12-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,2.5,0.1644
+2014-12-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,4.83,0.3176
+2014-12-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,2.5,0.1644
+2014-12-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.0,0.4603
+2015-01-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,2.5,0.1543
+2015-01-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,4.56,0.2815
+2015-01-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,9.0,0.5556
+2015-01-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,2.7,0.1667
+2015-01-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,4.3,0.2655
+2015-01-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,2.9,0.179
+2015-01-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.0,0.4322
+2015-02-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,2.44,0.1326
+2015-02-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,4.69,0.255
+2015-02-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,9.0,0.4893
+2015-02-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.38,0.1838
+2015-02-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,4.38,0.2381
+2015-02-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,3.38,0.1838
+2015-02-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.0,0.3805
+2015-03-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,2.59,0.1393
+2015-03-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,4.81,0.2588
+2015-03-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,9.0,0.4842
+2015-03-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.5,0.1883
+2015-03-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,4.69,0.2523
+2015-03-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,3.75,0.2017
+2015-03-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.0,0.3766
+2015-04-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,2.75,0.1558
+2015-04-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,4.25,0.2408
+2015-04-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,9.6,0.544
+2015-04-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.75,0.2125
+2015-04-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.1,0.289
+2015-04-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,4.0,0.2267
+2015-04-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,6.95,0.3939
+2015-05-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,2.9,0.1661
+2015-05-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,8.33,0.4771
+2015-05-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,10.0,0.5728
+2015-05-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.75,0.2148
+2015-05-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,10.69,0.6123
+2015-05-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,4.0,0.2291
+2015-05-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.0,0.401
+2015-06-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,2.95,0.1661
+2015-06-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,7.63,0.4296
+2015-06-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,9.63,0.5422
+2015-06-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.88,0.2185
+2015-06-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,8.5,0.4786
+2015-06-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,3.81,0.2145
+2015-06-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,6.88,0.3874
+2015-07-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,2.9,0.1557
+2015-07-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,6.0,0.3221
+2015-07-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,9.0,0.4831
+2015-07-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.55,0.1906
+2015-07-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.7,0.306
+2015-07-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,3.6,0.1933
+2015-07-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.0,0.3758
+2015-08-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.73,0.1971
+2015-08-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.17,0.2731
+2015-08-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,9.0,0.4755
+2015-08-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,4.13,0.2182
+2015-08-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.63,0.2974
+2015-08-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,4.0,0.2113
+2015-08-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.13,0.3767
+2015-09-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.88,0.2014
+2015-09-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,6.0,0.3114
+2015-09-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,9.13,0.4738
+2015-09-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,4.0,0.2076
+2015-09-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,6.5,0.3373
+2015-09-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,4.0,0.2076
+2015-09-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.0,0.3633
+2015-10-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.51,0.181
+2015-10-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,6.35,0.3275
+2015-10-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,9.25,0.4771
+2015-10-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,4.15,0.2141
+2015-10-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,6.25,0.3224
+2015-10-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,4.1,0.2115
+2015-10-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.1,0.3662
+2015-11-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.65,0.1819
+2015-11-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,6.5,0.3238
+2015-11-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,9.25,0.4609
+2015-11-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,4.25,0.2117
+2015-11-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,7.25,0.3612
+2015-11-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,4.25,0.2117
+2015-11-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.0,0.3488
+2015-12-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,5.0,0.257
+2015-12-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,7.11,0.3654
+2015-12-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,9.0,0.4625
+2015-12-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.45,0.1773
+2015-12-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,6.6,0.3392
+2015-12-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,3.25,0.167
+2015-12-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,6.94,0.3566
+2016-01-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.5,0.1736
+2016-01-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,6.75,0.3347
+2016-01-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,10.75,0.5331
+2016-01-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,4.25,0.2108
+2016-01-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,6.75,0.3347
+2016-01-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,4.25,0.2108
+2016-01-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.0,0.3471
+2016-02-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.68,0.1868
+2016-02-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,6.23,0.3163
+2016-02-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,10.75,0.5458
+2016-02-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,4.25,0.2158
+2016-02-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,7.13,0.362
+2016-02-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,4.25,0.2158
+2016-02-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.0,0.3554
+2016-03-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.2,0.1636
+2016-03-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.4,0.276
+2016-03-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,10.9,0.5572
+2016-03-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,4.7,0.2403
+2016-03-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,6.95,0.3553
+2016-03-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,4.6,0.2351
+2016-03-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.0,0.3578
+2016-04-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.25,0.1676
+2016-04-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,6.38,0.329
+2016-04-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,11.13,0.574
+2016-04-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,4.56,0.2352
+2016-04-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,6.69,0.345
+2016-04-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,4.44,0.229
+2016-04-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.0,0.361
+2016-05-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.36,0.1689
+2016-05-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,11.94,0.6003
+2016-05-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,10.88,0.547
+2016-05-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,4.75,0.2388
+2016-05-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,11.0,0.5531
+2016-05-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,4.25,0.2137
+2016-05-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.0,0.3519
+2016-06-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.25,0.1663
+2016-06-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,7.5,0.3837
+2016-06-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,11.0,0.5628
+2016-06-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,4.75,0.243
+2016-06-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,7.13,0.3648
+2016-06-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,4.44,0.2272
+2016-06-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.0,0.3582
+2016-07-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.06,0.1566
+2016-07-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.5,0.2815
+2016-07-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,11.0,0.5629
+2016-07-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,4.63,0.2369
+2016-07-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,4.42,0.2262
+2016-07-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.0,0.3582
+2016-08-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.9,0.2006
+2016-08-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.0,0.2572
+2016-08-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,11.0,0.5658
+2016-08-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,4.25,0.2186
+2016-08-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,4.3,0.2212
+2016-08-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,4.18,0.215
+2016-08-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.0,0.36
+2016-09-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,3.68,0.1895
+2016-09-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,4.75,0.2445
+2016-09-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,11.0,0.5663
+2016-09-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,4.25,0.2188
+2016-09-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,4.59,0.2363
+2016-09-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,4.19,0.2157
+2016-09-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.0,0.3604
+2016-10-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,2.93,0.1473
+2016-10-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.44,0.2734
+2016-10-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,11.25,0.5654
+2016-10-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,4.56,0.2292
+2016-10-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,4.31,0.2166
+2016-10-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,4.5,0.2262
+2016-10-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.0,0.3518
+2016-11-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,2.78,0.1401
+2016-11-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.75,0.2897
+2016-11-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,11.19,0.5639
+2016-11-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,4.25,0.2142
+2016-11-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,4.38,0.2207
+2016-11-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,4.25,0.2142
+2016-11-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,8.5,0.4283
+2016-12-15,,,Causeni,,,cereals and tubers,Maize,KG,actual,Retail,MDL,2.84,0.1417
+2016-12-15,,,Causeni,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.63,0.281
+2016-12-15,,,Causeni,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,11.0,0.549
+2016-12-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,4.25,0.2121
+2016-12-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,4.25,0.2121
+2016-12-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,4.25,0.2121
+2016-12-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,8.5,0.4242
+2017-01-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,4.25,0.2124
+2017-01-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,4.88,0.2439
+2017-01-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,4.25,0.2124
+2017-01-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.0,0.3498
+2017-02-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,4.25,0.2141
+2017-02-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,4.5,0.2267
+2017-02-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,4.25,0.2141
+2017-02-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.0,0.3526
+2017-03-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,4.25,0.2175
+2017-03-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,4.42,0.2262
+2017-03-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,4.25,0.2175
+2017-03-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.0,0.3582
+2017-04-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,4.25,0.2194
+2017-04-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.33,0.2752
+2017-04-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,4.25,0.2194
+2017-04-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.0,0.3614
+2017-05-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,4.25,0.2327
+2017-05-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,12.75,0.698
+2017-05-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,4.25,0.2327
+2017-05-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.0,0.3832
+2017-06-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,4.25,0.2372
+2017-06-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,8.0,0.4466
+2017-06-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,4.25,0.2372
+2017-06-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.0,0.3907
+2017-07-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,4.19,0.2312
+2017-07-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,6.17,0.3404
+2017-07-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,4.06,0.224
+2017-07-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,6.75,0.3724
+2017-08-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,4.0,0.2263
+2017-08-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.19,0.2937
+2017-08-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,4.0,0.2263
+2017-08-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.0,0.3961
+2017-09-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,4.0,0.2302
+2017-09-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.31,0.3056
+2017-09-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,4.0,0.2302
+2017-09-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.0,0.4029
+2017-10-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,4.0,0.229
+2017-10-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.19,0.2971
+2017-10-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,4.0,0.229
+2017-10-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.0,0.4007
+2017-11-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,4.0,0.2315
+2017-11-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.5,0.3183
+2017-11-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,4.0,0.2315
+2017-11-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.0,0.4051
+2017-12-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,4.0,0.2356
+2017-12-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.88,0.3463
+2017-12-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,4.0,0.2356
+2017-12-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.0,0.4122
+2018-01-15,,,Chisinau,,,cereals and tubers,Maize,KG,actual,Retail,MDL,4.25,0.254
+2018-01-15,,,Chisinau,,,cereals and tubers,Potatoes,KG,actual,Retail,MDL,5.88,0.3515
+2018-01-15,,,Chisinau,,,cereals and tubers,Wheat,KG,actual,Retail,MDL,4.0,0.2391
+2018-01-15,,,Chisinau,,,cereals and tubers,Wheat flour,KG,actual,Retail,MDL,7.0,0.4184

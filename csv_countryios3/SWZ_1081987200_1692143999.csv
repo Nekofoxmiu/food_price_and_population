@@ -1,0 +1,411 @@
+date,code,usdprice
+#date,#meta+code,#value+usd
+2014-01-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,1.0348
+2014-02-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,1.02
+2014-03-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,1.0514
+2014-04-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.913
+2014-05-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,1.1647
+2014-06-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,1.1404
+2014-06-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,1.1404
+2014-07-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,1.1243
+2014-08-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,1.1381
+2014-09-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.9634
+2014-10-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.9513
+2014-10-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.9513
+2014-11-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.9496
+2014-11-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.9496
+2014-12-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.897
+2014-12-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.897
+2015-01-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.9095
+2015-02-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,1.0334
+2015-03-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,1.0088
+2015-04-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.9997
+2015-05-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.9223
+2015-06-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.9694
+2015-06-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.9694
+2015-07-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.9737
+2015-08-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.9236
+2015-09-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.8899
+2015-09-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.8899
+2015-10-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.9081
+2015-10-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.9081
+2015-11-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.8494
+2015-11-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.8494
+2015-12-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.7462
+2016-01-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.7301
+2016-02-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.7659
+2016-05-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.8023
+2016-06-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.7835
+2016-06-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.7835
+2016-07-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.8495
+2016-07-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.8495
+2016-08-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.9076
+2016-09-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.8489
+2016-10-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.8651
+2016-10-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.8651
+2016-11-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.8381
+2016-11-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.8381
+2016-12-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.8783
+2016-12-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.8783
+2017-01-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.8839
+2017-02-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.9214
+2017-03-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.9109
+2017-04-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.8445
+2017-05-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.8972
+2017-06-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.9521
+2017-06-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.9521
+2017-07-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.8585
+2017-08-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.9132
+2017-09-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.9143
+2017-10-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.8699
+2017-10-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.8699
+2017-11-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.8496
+2017-11-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.8496
+2017-12-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.8986
+2017-12-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.8986
+2018-01-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.9864
+2018-02-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.9561
+2018-03-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.9496
+2018-04-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.9215
+2018-05-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.9117
+2018-05-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.9117
+2018-06-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.8318
+2018-06-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.8318
+2018-07-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.9521
+2018-08-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.8999
+2018-09-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.7748
+2018-09-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.7748
+2018-10-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.8795
+2018-10-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.8795
+2018-11-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.8053
+2018-11-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.8053
+2018-12-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.9955
+2019-01-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.9226
+2019-02-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.849
+2019-03-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.829
+2019-04-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.9574
+2019-05-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.926
+2019-05-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.926
+2019-06-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.8316
+2019-06-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.8316
+2019-07-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.8575
+2019-07-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.8575
+2019-08-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.8755
+2019-08-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.8755
+2019-09-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.8667
+2019-09-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.8667
+2019-10-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.9028
+2019-10-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.9028
+2019-11-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.8089
+2019-11-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.8089
+2019-12-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.836
+2020-01-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.8892
+2020-02-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.866
+2020-03-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.7191
+2020-04-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.7182
+2020-05-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.7125
+2020-05-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.7125
+2020-06-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.9349
+2020-06-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.9349
+2020-07-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.8427
+2020-08-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.8261
+2020-09-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.8737
+2020-10-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.846
+2020-10-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.846
+2020-11-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.9244
+2020-11-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.9244
+2020-12-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.9015
+2020-12-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.9015
+2021-01-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.8664
+2021-02-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.9343
+2021-03-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.9351
+2021-04-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.976
+2021-05-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.9465
+2021-05-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.9465
+2021-06-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,1.0281
+2021-06-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,1.0281
+2021-07-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,1.0295
+2021-08-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,1.0527
+2021-09-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,1.0256
+2021-10-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.9794
+2021-10-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.9794
+2021-11-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.9357
+2021-11-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.9357
+2021-12-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.8909
+2021-12-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.8909
+2022-01-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,0.9295
+2022-02-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,1.0056
+2022-03-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,1.0717
+2022-04-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,1.1282
+2022-05-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,1.0167
+2022-05-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,1.0167
+2022-06-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,1.0826
+2022-06-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,1.0826
+2022-07-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,1.0518
+2022-08-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,1.1468
+2022-08-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,1.1468
+2022-09-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,1.0982
+2022-09-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,1.0982
+2022-10-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,1.0166
+2022-10-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,1.0166
+2022-11-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,1.0714
+2022-11-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,1.0714
+2022-12-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,1.0717
+2023-01-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,1.124
+2023-02-15,Manzini-MANZINI NORTH-Manzini-Wheat flour-KG-SZL,1.0813
+2014-01-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,6.0721
+2014-02-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.9856
+2014-02-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.9856
+2014-03-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,6.17
+2014-04-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.4356
+2014-04-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.4356
+2014-05-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.6852
+2014-06-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.4309
+2014-07-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.3541
+2014-08-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.8268
+2014-09-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,7.677
+2014-10-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,6.9272
+2014-10-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,6.9272
+2014-11-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,6.2625
+2014-12-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.7919
+2015-01-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,4.2495
+2015-01-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,4.2495
+2015-02-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,4.3061
+2015-02-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,4.3061
+2015-03-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,4.9242
+2015-03-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,4.9242
+2015-04-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,4.8798
+2015-04-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,4.8798
+2015-05-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.0027
+2015-06-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,4.1547
+2015-07-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,3.7106
+2015-08-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,3.2986
+2015-09-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,3.7081
+2015-10-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,3.5676
+2015-11-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,4.7534
+2015-12-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.045
+2016-01-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,6.1721
+2016-01-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,6.1721
+2016-02-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.9288
+2016-02-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.9288
+2016-03-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,7.4912
+2016-04-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.3046
+2016-05-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,4.4896
+2016-06-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.3177
+2016-07-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.7655
+2016-08-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.0786
+2016-09-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,4.7504
+2016-10-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,6.0771
+2016-10-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,6.0771
+2016-11-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.2889
+2016-11-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.2889
+2016-12-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,6.1701
+2017-01-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,7.4725
+2017-02-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,7.7897
+2017-03-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,7.7004
+2017-04-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,6.5718
+2017-04-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,6.5718
+2017-05-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.0208
+2017-06-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,3.9683
+2017-07-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,3.9423
+2017-08-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,4.5665
+2017-09-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,3.5921
+2017-10-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,4.1427
+2017-10-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,4.1427
+2017-11-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.058
+2017-11-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.058
+2017-12-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.3494
+2018-01-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,6.2248
+2018-01-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,6.2248
+2018-02-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.8546
+2018-02-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.8546
+2018-03-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.0878
+2018-03-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.0878
+2018-04-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.6427
+2018-04-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.6427
+2018-05-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,4.8848
+2018-06-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,4.2443
+2018-07-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,4.2508
+2018-08-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,4.0175
+2018-09-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,3.5579
+2018-10-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,4.3191
+2018-11-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.3561
+2018-12-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,6.5019
+2019-01-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.9728
+2019-01-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.9728
+2019-02-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.0541
+2019-02-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.0541
+2019-03-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,4.9353
+2019-03-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,4.9353
+2019-04-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,4.8704
+2019-04-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,4.8704
+2019-05-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,4.009
+2019-06-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,3.4652
+2019-07-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,3.573
+2019-08-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,3.7904
+2019-09-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,4.6904
+2019-09-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,4.6904
+2019-10-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,4.8858
+2019-11-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.2972
+2019-12-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,6.4704
+2020-01-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.5584
+2020-01-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.5584
+2020-02-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,6.094
+2020-03-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,3.8538
+2020-04-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,3.8852
+2020-05-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,3.4712
+2020-06-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,3.3389
+2020-07-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,4.1407
+2020-08-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.1816
+2020-09-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.4853
+2020-10-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.0233
+2020-10-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.0233
+2020-11-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,6.5748
+2020-11-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,6.5748
+2020-12-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,6.8885
+2021-01-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.8905
+2021-01-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.8905
+2021-02-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.1686
+2021-02-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.1686
+2021-03-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,4.9574
+2021-03-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,4.9574
+2021-04-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.2411
+2021-04-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.2411
+2021-05-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.1411
+2021-06-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,6.0851
+2021-07-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,6.4249
+2021-08-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,6.3119
+2021-09-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,7.3364
+2021-10-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,7.4973
+2021-11-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,6.0954
+2021-12-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.657
+2022-01-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.8055
+2022-01-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.8055
+2022-02-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.1176
+2022-02-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.1176
+2022-03-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.755
+2022-03-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.755
+2022-04-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,6.0136
+2022-04-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,6.0136
+2022-05-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,6.4708
+2022-06-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,6.2812
+2022-07-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.3848
+2022-08-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.3346
+2022-09-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,4.2976
+2022-10-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,3.9631
+2022-11-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,4.7681
+2022-12-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,4.9797
+2023-01-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.534
+2023-01-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.534
+2023-02-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.5402
+2023-02-15,Hhohho-MAYIWANE-Hhohho-Potatoes-10 KG-SZL,5.5402
+2014-01-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.8623
+2014-02-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.85
+2014-03-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.7197
+2014-04-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.7291
+2014-05-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.9058
+2014-06-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.8869
+2014-07-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.9369
+2014-08-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.7587
+2014-09-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.9264
+2014-10-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.7623
+2014-11-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.9132
+2014-12-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.8625
+2015-01-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.8746
+2015-02-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.8612
+2015-03-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.8406
+2015-04-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.8331
+2015-05-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.8256
+2015-06-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.8617
+2015-07-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.7302
+2015-08-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.821
+2015-09-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.791
+2015-10-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.7315
+2015-11-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.7551
+2015-12-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.7106
+2016-01-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.649
+2016-02-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.5957
+2016-03-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.8083
+2016-04-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.6417
+2016-05-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.8246
+2016-06-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.6965
+2016-07-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.871
+2016-08-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.9076
+2016-09-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.849
+2016-10-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,1.0574
+2016-11-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,1.0245
+2016-12-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,1.0736
+2017-01-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,1.0804
+2017-02-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,1.1263
+2017-03-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,1.1134
+2017-04-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,1.1311
+2017-05-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,1.1217
+2017-06-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,1.1902
+2017-07-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,1.1499
+2017-08-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,1.1416
+2017-09-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,1.016
+2017-10-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.9666
+2017-11-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.9441
+2017-12-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.9985
+2018-01-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,1.0961
+2018-02-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,1.1383
+2018-03-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,1.1306
+2018-04-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,1.0971
+2018-05-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,1.0041
+2018-06-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.916
+2018-07-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.9175
+2018-08-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.8671
+2018-09-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,1.0147
+2018-10-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,1.0078
+2018-11-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,1.0183
+2018-12-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,1.0429
+2019-01-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,1.0572
+2019-02-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,1.0377
+2019-03-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,1.0134
+2019-04-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,1.0639
+2019-05-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,1.029
+2019-06-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,1.0165
+2019-07-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,1.0481
+2019-08-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.9729
+2019-09-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.9631
+2019-10-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,1.0032
+2019-11-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.9888
+2019-12-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,1.0219
+2020-01-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,1.0422
+2020-02-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,1.0061
+2020-03-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.879
+2020-04-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.7976
+2020-05-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.8098
+2020-06-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.896
+2020-07-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.8792
+2020-08-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.8633
+2020-09-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.8669
+2020-10-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.8775
+2020-11-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.9257
+2020-12-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.9697
+2021-01-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.9684
+2021-02-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.9977
+2021-03-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.9821
+2021-04-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,1.0005
+2021-05-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,1.0802
+2021-06-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,1.0907
+2021-07-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,1.0263
+2021-08-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,1.0216
+2021-09-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,1.107
+2021-10-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,1.0688
+2021-11-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,1.0325
+2021-12-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.9678
+2022-01-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.9884
+2022-02-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,1.0464
+2022-03-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,1.133
+2022-04-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,1.1867
+2022-05-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,1.0206
+2022-06-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.9819
+2022-07-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.964
+2022-08-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,1.0093
+2022-09-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.9136
+2022-10-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.8765
+2022-11-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.9252
+2022-12-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.9372
+2023-01-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.956
+2023-02-15,Lubombo-SITHOBELA-Shiselweni-Sugar (brown)-KG-SZL,0.9458

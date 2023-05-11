@@ -1,0 +1,987 @@
+date,code,usdprice
+#date,#meta+code,#value+usd
+1994-01-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.239
+1994-02-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.255
+1994-03-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.255
+1994-04-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.255
+1994-05-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.255
+1994-06-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.3188
+1994-07-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.255
+1994-08-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2709
+1994-09-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.255
+1994-10-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.255
+1994-11-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2868
+1994-12-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2549
+1995-01-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2773
+1995-02-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2707
+1995-03-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2702
+1995-04-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2862
+1995-05-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2707
+1995-06-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2705
+1995-07-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2706
+1995-08-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2689
+1995-09-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2733
+1995-10-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2624
+1995-11-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2588
+1995-12-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2567
+1996-01-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2513
+1996-02-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2519
+1996-03-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2594
+1996-04-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2614
+1996-05-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2587
+1996-06-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2566
+1996-07-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2687
+1996-08-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2663
+1996-09-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.266
+1996-10-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2659
+1996-11-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.28
+1996-12-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.279
+1997-01-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2785
+1997-02-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.3065
+1997-03-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.3064
+1997-04-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.3348
+1997-05-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2794
+1997-06-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2793
+1997-07-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2796
+1997-08-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2776
+1997-09-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2757
+1997-10-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2894
+1997-11-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2801
+1997-12-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.3084
+1998-01-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.3069
+1998-02-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.3067
+1998-03-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.3046
+1998-04-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.3029
+1998-05-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2957
+1998-06-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2858
+1998-07-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2823
+1998-08-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.282
+1998-09-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.3058
+1998-10-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.3182
+1998-11-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.3176
+1998-12-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.3172
+1999-01-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.3177
+1999-02-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2824
+1999-03-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2591
+1999-04-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2581
+1999-05-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.3035
+1999-06-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.3016
+1999-07-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.3
+1999-08-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2997
+1999-09-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2871
+1999-10-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2872
+1999-10-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2872
+1999-11-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2879
+1999-12-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2877
+2000-01-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2927
+2000-02-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2923
+2000-03-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2923
+2000-04-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.3036
+2000-05-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.3004
+2000-06-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2969
+2000-07-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.29
+2000-08-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2865
+2000-09-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2667
+2000-10-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2585
+2000-11-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.267
+2000-12-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2671
+2001-01-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2683
+2001-02-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2687
+2001-03-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2681
+2001-04-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2781
+2001-05-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2451
+2001-06-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2446
+2001-07-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2442
+2001-08-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2439
+2001-09-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2421
+2001-10-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2369
+2001-11-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2397
+2001-12-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2392
+2002-01-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2377
+2002-02-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2361
+2002-03-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2356
+2002-04-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2557
+2002-05-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2653
+2002-06-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2554
+2002-07-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2358
+2002-08-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2366
+2002-09-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2374
+2002-10-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2376
+2002-11-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2379
+2002-12-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2388
+2003-01-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.24
+2003-02-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2409
+2003-03-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2415
+2003-04-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2318
+2003-05-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2331
+2003-06-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2353
+2003-07-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2375
+2003-08-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2391
+2003-09-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2399
+2003-10-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2413
+2003-11-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2411
+2003-12-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2419
+2004-01-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2426
+2004-02-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2429
+2004-03-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2435
+2004-04-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2511
+2004-05-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2447
+2004-06-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.243
+2004-07-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.239
+2004-08-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2371
+2004-09-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2514
+2004-10-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2514
+2004-11-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2557
+2004-12-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2618
+2005-01-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2635
+2005-02-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2629
+2005-03-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2645
+2005-04-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2632
+2005-05-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2691
+2005-06-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2701
+2005-07-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2703
+2005-08-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2647
+2005-09-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2626
+2005-10-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2582
+2005-11-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2524
+2005-12-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2543
+2006-01-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2579
+2006-02-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2661
+2006-03-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2778
+2006-04-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2735
+2006-05-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2763
+2006-06-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2729
+2006-07-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2731
+2006-08-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2692
+2006-09-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2714
+2006-10-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2857
+2006-11-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2877
+2006-12-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2923
+2007-01-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2946
+2007-02-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.2954
+2007-03-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.3001
+2007-04-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.3122
+2007-05-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.3302
+2007-06-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.3275
+2007-07-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.3264
+2007-08-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.3364
+2007-09-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.3408
+2007-10-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.3632
+2007-11-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.3634
+2007-12-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.3856
+2008-01-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4082
+2008-02-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4042
+2008-03-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4005
+2008-04-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4014
+2008-05-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.3776
+2008-06-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4092
+2008-07-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.3943
+2008-08-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.3943
+2008-09-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.3709
+2008-10-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.3615
+2008-11-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.3532
+2008-12-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.3685
+2009-01-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.3698
+2009-02-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.3605
+2009-03-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.3541
+2009-04-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.3629
+2009-05-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.344
+2009-06-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.3556
+2009-07-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.3935
+2009-08-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.402
+2009-09-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4023
+2009-10-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4135
+2009-11-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4067
+2009-12-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4067
+2010-01-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4585
+2010-02-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.41
+2010-03-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4171
+2010-04-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.429
+2010-05-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4404
+2010-06-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.431
+2010-07-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4306
+2010-08-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4277
+2010-09-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4551
+2010-10-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4765
+2010-11-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4466
+2010-12-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4453
+2011-01-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4409
+2011-02-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.441
+2011-03-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4227
+2011-04-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4405
+2011-05-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.439
+2011-06-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4359
+2011-07-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.459
+2011-08-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4803
+2011-09-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4683
+2011-10-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4448
+2011-11-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4346
+2011-12-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4107
+2012-01-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4269
+2012-02-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4457
+2012-03-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4408
+2012-04-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4244
+2012-05-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.46
+2012-06-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4808
+2012-07-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4825
+2012-08-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.5014
+2012-09-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.463
+2012-10-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4735
+2012-11-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4613
+2012-12-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4818
+2013-01-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4771
+2013-02-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4822
+2013-03-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4784
+2013-04-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4905
+2013-05-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.5009
+2013-06-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4961
+2013-07-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.501
+2013-08-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4622
+2013-09-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4275
+2013-10-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4531
+2013-11-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.46
+2013-12-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.479
+2014-01-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.488
+2014-02-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4894
+2014-03-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4977
+2014-04-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4972
+2014-05-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.5051
+2014-06-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.5037
+2014-07-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.504
+2014-08-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4947
+2014-09-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4947
+2014-10-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4887
+2014-11-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4863
+2014-12-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4799
+2015-01-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4832
+2015-02-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4856
+2015-03-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4825
+2015-04-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4814
+2015-05-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4731
+2015-06-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4681
+2015-07-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4738
+2015-08-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4607
+2015-09-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4524
+2015-10-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4626
+2015-11-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4544
+2015-12-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4473
+2016-01-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4457
+2016-02-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4405
+2016-03-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4466
+2016-04-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4482
+2016-05-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4416
+2016-06-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4473
+2016-07-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4599
+2016-08-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4484
+2016-09-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4494
+2016-10-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4494
+2016-11-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4426
+2016-12-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4423
+2017-01-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4419
+2017-02-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4397
+2017-03-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4409
+2017-04-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4494
+2017-05-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.452
+2017-06-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.452
+2017-07-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4502
+2017-08-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.46
+2017-09-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4676
+2017-10-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.457
+2017-11-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4514
+2017-12-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4667
+2018-01-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4911
+2018-02-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4965
+2018-03-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4781
+2018-04-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4775
+2018-05-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4728
+2018-06-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4638
+2018-07-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4378
+2018-08-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4432
+2018-09-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4303
+2018-10-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4072
+2018-11-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.413
+2018-12-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4428
+2019-01-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4597
+2019-02-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4647
+2019-03-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4624
+2019-04-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4193
+2019-05-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4135
+2019-06-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4301
+2019-07-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4273
+2019-08-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4188
+2019-09-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4275
+2019-10-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4253
+2019-11-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4308
+2019-12-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4335
+2020-01-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4458
+2020-02-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4314
+2020-03-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4223
+2020-04-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4087
+2020-05-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4158
+2020-06-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.445
+2020-07-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4363
+2020-08-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4282
+2020-09-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4211
+2020-10-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.422
+2020-11-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4186
+2020-12-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4454
+2021-01-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4574
+2021-02-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4354
+2021-03-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4349
+2021-04-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4168
+2021-05-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4313
+2021-06-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4742
+2021-07-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4492
+2021-08-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4272
+2021-09-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4436
+2021-10-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.452
+2021-11-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4516
+2021-12-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4392
+2022-01-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4682
+2022-02-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4813
+2022-03-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4833
+2022-04-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4617
+2022-05-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4469
+2022-06-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4398
+2022-07-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4264
+2022-08-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4277
+2022-09-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4279
+2022-10-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4223
+2022-11-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4198
+2022-12-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.3984
+2023-01-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4242
+2023-02-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4224
+2023-03-15,Maharashtra-Mumbai city-Mumbai-Rice-KG-INR,0.4252
+1994-01-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1594
+1994-02-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1658
+1994-03-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1594
+1994-04-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1594
+1994-05-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1594
+1994-06-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1594
+1994-07-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1594
+1994-08-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1594
+1994-09-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1753
+1994-10-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1753
+1994-11-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1753
+1994-12-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1752
+1996-01-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1536
+1996-02-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1609
+1996-03-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1657
+1996-04-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.167
+1996-05-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1652
+1996-06-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1711
+1996-07-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1697
+1996-08-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1682
+1996-09-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.182
+1996-10-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.182
+1996-11-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.224
+1996-12-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2232
+1997-01-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2228
+1997-02-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2369
+1997-03-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2368
+1997-04-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1813
+1997-05-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1816
+1997-06-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1815
+1997-07-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1817
+1997-08-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1804
+1997-09-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1654
+1997-10-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1791
+1997-11-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1734
+1997-12-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1927
+1998-01-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2046
+1998-02-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1917
+1998-03-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1904
+1998-04-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1767
+1998-05-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1725
+1998-06-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1548
+1998-07-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1647
+1998-08-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1645
+1998-09-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1646
+1998-10-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1768
+1998-11-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1765
+1998-12-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1762
+1999-01-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1765
+1999-02-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1883
+1999-03-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1884
+1999-04-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1642
+1999-05-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1634
+1999-06-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.174
+1999-07-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1731
+1999-08-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1729
+1999-09-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1837
+1999-10-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1838
+1999-11-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1843
+1999-12-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1841
+2000-01-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1836
+2000-02-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1834
+2000-03-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1834
+2000-04-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1719
+2000-05-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.17
+2000-06-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.168
+2000-07-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1673
+2000-08-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1542
+2000-09-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1524
+2000-10-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1508
+2000-11-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1495
+2000-12-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1496
+2001-01-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1503
+2001-02-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1505
+2001-03-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1501
+2001-04-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1497
+2001-05-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1492
+2001-06-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1489
+2001-07-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1486
+2001-08-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1504
+2001-09-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1579
+2001-10-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.154
+2001-11-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1563
+2001-12-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.156
+2002-01-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.155
+2002-02-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.154
+2002-03-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1537
+2002-04-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1534
+2002-05-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1429
+2002-06-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.143
+2002-07-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1435
+2002-08-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.144
+2002-09-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1445
+2002-10-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.155
+2002-11-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1552
+2002-12-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1558
+2003-01-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1669
+2003-02-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1624
+2003-03-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1628
+2003-04-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1581
+2003-05-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1589
+2003-06-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1658
+2003-07-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1673
+2003-08-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1685
+2003-09-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.169
+2003-10-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.181
+2003-11-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1808
+2003-12-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1924
+2004-01-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1929
+2004-02-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1932
+2004-03-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1937
+2004-04-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1826
+2004-05-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.178
+2004-06-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1767
+2004-07-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1847
+2004-08-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1832
+2004-09-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1858
+2004-10-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1967
+2004-11-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2001
+2004-12-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2049
+2005-01-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2062
+2005-02-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2058
+2005-03-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1955
+2005-04-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1831
+2005-05-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.1947
+2005-06-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2069
+2005-07-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.207
+2005-08-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2072
+2005-09-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2055
+2005-10-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2021
+2005-11-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2195
+2005-12-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2211
+2006-01-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2467
+2006-02-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2378
+2006-03-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2268
+2006-04-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2232
+2006-05-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.221
+2006-06-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2183
+2006-07-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2185
+2006-08-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2369
+2006-09-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2389
+2006-10-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2417
+2006-11-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2655
+2006-12-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2698
+2007-01-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2719
+2007-02-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2726
+2007-03-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2718
+2007-04-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2827
+2007-05-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2691
+2007-06-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2719
+2007-07-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2956
+2007-08-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2936
+2007-09-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2974
+2007-10-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3058
+2007-11-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.306
+2007-12-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3034
+2008-01-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3317
+2008-02-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3284
+2008-03-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3254
+2008-04-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3136
+2008-05-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3068
+2008-06-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.304
+2008-07-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3015
+2008-08-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3015
+2008-09-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2837
+2008-10-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2686
+2008-11-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2624
+2008-12-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2738
+2009-01-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2671
+2009-02-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2603
+2009-03-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2557
+2009-04-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2722
+2009-05-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2833
+2009-06-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2928
+2009-07-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2692
+2009-08-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.268
+2009-09-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2682
+2009-10-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3047
+2009-11-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3211
+2009-12-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3211
+2010-01-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3493
+2010-02-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3237
+2010-03-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3293
+2010-04-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2935
+2010-05-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2863
+2010-06-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3017
+2010-07-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3014
+2010-08-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2994
+2010-09-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3034
+2010-10-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3177
+2010-11-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3127
+2010-12-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3117
+2011-01-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3417
+2011-02-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3418
+2011-03-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.5339
+2011-04-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3482
+2011-05-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3372
+2011-06-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3353
+2011-07-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3378
+2011-08-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3304
+2011-09-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3154
+2011-10-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3067
+2011-11-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2988
+2011-12-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2793
+2012-01-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3105
+2012-02-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3242
+2012-03-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3206
+2012-04-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3087
+2012-05-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2965
+2012-06-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2803
+2012-07-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2675
+2012-08-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2997
+2012-09-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3505
+2012-10-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3449
+2012-11-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3467
+2012-12-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3477
+2013-01-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3487
+2013-02-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3524
+2013-03-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3496
+2013-04-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3467
+2013-05-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.315
+2013-06-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3002
+2013-07-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3006
+2013-08-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2937
+2013-09-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2783
+2013-10-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2933
+2013-11-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2855
+2013-12-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2896
+2014-01-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2928
+2014-02-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2891
+2014-03-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2945
+2014-04-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3059
+2014-05-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3367
+2014-06-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3312
+2014-07-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3193
+2014-08-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3298
+2014-09-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3238
+2014-10-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3095
+2014-11-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3033
+2014-12-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2879
+2015-01-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2972
+2015-02-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3076
+2015-03-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3056
+2015-04-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3049
+2015-05-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2996
+2015-06-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2964
+2015-07-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3
+2015-08-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2918
+2015-09-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2865
+2015-10-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.293
+2015-11-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2878
+2015-12-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2833
+2016-01-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2823
+2016-02-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.279
+2016-03-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2828
+2016-04-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2851
+2016-05-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2842
+2016-06-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2953
+2016-07-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2992
+2016-08-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.299
+2016-09-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2996
+2016-10-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3095
+2016-11-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3472
+2016-12-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3357
+2017-01-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3348
+2017-02-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3338
+2017-03-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3264
+2017-04-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3254
+2017-05-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3229
+2017-06-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3117
+2017-07-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3105
+2017-08-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3117
+2017-09-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3117
+2017-10-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3095
+2017-11-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.321
+2017-12-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3076
+2018-01-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3093
+2018-02-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3124
+2018-03-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3085
+2018-04-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3034
+2018-05-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2955
+2018-06-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2936
+2018-07-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3174
+2018-08-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3288
+2018-09-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3206
+2018-10-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3226
+2018-11-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3315
+2018-12-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3442
+2019-01-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3479
+2019-02-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3521
+2019-03-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3567
+2019-04-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3162
+2019-05-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3044
+2019-06-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3172
+2019-07-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3355
+2019-08-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.335
+2019-09-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.337
+2019-10-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3467
+2019-11-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3613
+2019-12-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3505
+2020-01-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3529
+2020-02-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3415
+2020-03-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3255
+2020-04-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3161
+2020-05-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3077
+2020-06-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2887
+2020-07-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.274
+2020-08-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2695
+2020-09-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2585
+2020-10-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2592
+2020-11-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2665
+2020-12-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2708
+2021-01-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2918
+2021-02-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3042
+2021-09-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3394
+2021-10-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3032
+2021-11-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3228
+2021-12-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3156
+2022-03-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.305
+2022-04-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3276
+2022-05-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3246
+2022-06-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.2931
+2022-07-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3005
+2022-08-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3079
+2022-09-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3146
+2022-10-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3098
+2022-11-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3309
+2022-12-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3394
+2023-01-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3537
+2023-02-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3689
+2023-03-15,Delhi-Delhi-Delhi-Wheat-KG-INR,0.3571
+1994-02-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.4272
+1994-03-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.4303
+1994-04-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.4686
+1994-05-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.475
+1994-06-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.4463
+1994-07-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.4016
+1994-08-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.4223
+1994-09-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3953
+1994-10-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3666
+1994-11-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3442
+1994-12-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3983
+1996-01-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3714
+1996-02-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3638
+1996-03-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3805
+1996-04-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3922
+1996-05-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.4081
+1996-06-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.4134
+1996-07-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3959
+1996-08-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3924
+1996-09-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3695
+1996-10-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3639
+1996-11-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3639
+1996-12-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3627
+2000-01-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3386
+2000-02-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3381
+2000-03-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3497
+2000-04-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3666
+2000-05-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3288
+2000-06-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3249
+2000-07-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3346
+2000-08-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3471
+2000-09-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.32
+2000-10-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3231
+2000-11-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3097
+2000-12-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3099
+2001-01-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3048
+2001-02-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.301
+2001-03-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.311
+2001-04-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3251
+2001-05-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3133
+2001-06-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3129
+2001-07-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3104
+2001-08-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3037
+2001-09-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3086
+2001-10-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3043
+2001-11-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3018
+2001-12-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.2999
+2002-01-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.2977
+2002-02-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.2977
+2002-03-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.2971
+2002-04-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.2966
+2002-05-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.2908
+2002-06-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.286
+2002-07-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.287
+2002-08-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.284
+2002-09-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.2838
+2002-10-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.281
+2002-11-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.2689
+2002-12-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.27
+2003-01-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.2629
+2003-02-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.2619
+2003-03-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.2625
+2003-04-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.2634
+2003-05-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.2649
+2003-06-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.2738
+2003-07-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.2764
+2003-08-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3087
+2003-09-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3053
+2003-10-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3071
+2003-11-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3068
+2003-12-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.2969
+2004-01-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.2922
+2004-02-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3313
+2004-03-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3277
+2004-04-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3652
+2004-05-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.356
+2004-06-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3535
+2004-07-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.353
+2004-08-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3556
+2004-09-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3606
+2004-10-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3606
+2004-11-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3558
+2004-12-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3984
+2005-01-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.4239
+2005-02-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.4115
+2005-03-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.414
+2005-04-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.4005
+2005-05-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.4008
+2005-06-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.4138
+2005-07-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.4141
+2005-08-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.4144
+2005-09-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.411
+2005-10-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.4042
+2005-11-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3951
+2005-12-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3981
+2006-01-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.4374
+2006-02-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.4529
+2006-03-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.4422
+2006-04-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.4465
+2006-05-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.442
+2006-06-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.4366
+2006-07-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.4261
+2006-08-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.4091
+2006-09-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3909
+2006-10-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3956
+2006-11-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3983
+2006-12-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3822
+2007-01-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3852
+2007-02-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3635
+2007-03-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3397
+2007-04-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3534
+2007-05-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3547
+2007-06-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.346
+2007-07-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3695
+2007-08-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3425
+2007-09-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.347
+2007-10-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3568
+2007-11-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.357
+2007-12-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.354
+2008-01-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.4082
+2008-02-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3916
+2008-03-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.4005
+2008-04-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.4014
+2008-05-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3776
+2008-06-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3741
+2008-07-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.3943
+2008-08-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.4871
+2008-09-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.4146
+2008-10-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.4132
+2008-11-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.4037
+2008-12-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.4422
+2009-01-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.4315
+2009-02-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.4406
+2009-03-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.4131
+2009-04-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5041
+2009-05-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5059
+2009-06-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5229
+2009-07-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5384
+2009-08-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.6391
+2009-09-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.6189
+2009-10-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.6746
+2009-11-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.7277
+2009-12-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.7278
+2010-01-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.917
+2010-02-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.7337
+2010-03-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.7463
+2010-04-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.6999
+2010-05-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.6606
+2010-06-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.625
+2010-07-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.6243
+2010-08-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5988
+2010-09-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.6068
+2010-10-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.6354
+2010-11-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.7146
+2010-12-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.7125
+2011-01-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.6834
+2011-02-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.6615
+2011-03-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.6452
+2011-04-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.6515
+2011-05-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.6488
+2011-06-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.6482
+2011-07-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.6788
+2011-08-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.6631
+2011-09-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.6518
+2011-10-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.6374
+2011-11-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.62
+2011-12-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.6034
+2012-01-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.6119
+2012-02-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.6088
+2012-03-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.6181
+2012-04-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5895
+2012-05-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5921
+2012-06-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5735
+2012-07-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.6048
+2012-08-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.7177
+2012-09-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.7213
+2012-10-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.7178
+2012-11-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.6916
+2012-12-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.6771
+2013-01-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.6476
+2013-02-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.6482
+2013-03-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.6139
+2013-04-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.6006
+2013-05-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.6205
+2013-06-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5852
+2013-07-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5686
+2013-08-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5547
+2013-09-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5257
+2013-10-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5499
+2013-11-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5235
+2013-12-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5309
+2014-01-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5206
+2014-02-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5067
+2014-03-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5123
+2014-04-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5635
+2014-05-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5882
+2014-06-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5708
+2014-07-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5661
+2014-08-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5607
+2014-09-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5606
+2014-10-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5538
+2014-11-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5511
+2014-12-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5402
+2015-01-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5315
+2015-02-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5318
+2015-03-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5069
+2015-04-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.4814
+2015-05-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.4731
+2015-06-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.4611
+2015-07-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.4479
+2015-08-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.4308
+2015-09-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.4572
+2015-10-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.4885
+2015-11-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.4847
+2015-12-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.478
+2016-01-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5257
+2016-02-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5426
+2016-03-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5527
+2016-04-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.6336
+2016-05-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.6402
+2016-06-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.6379
+2016-07-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.6386
+2016-08-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.6419
+2016-09-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.6312
+2016-10-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.6441
+2016-11-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.6266
+2016-12-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.6177
+2017-01-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.6212
+2017-02-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.6711
+2017-03-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.6851
+2017-04-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.6847
+2017-05-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.6893
+2017-06-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.6821
+2017-07-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.674
+2017-08-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.671
+2017-09-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.6805
+2017-10-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.6672
+2017-11-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.6538
+2017-12-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.6384
+2018-01-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.6113
+2018-02-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.6016
+2018-03-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5887
+2018-04-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5488
+2018-05-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.4928
+2018-06-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5343
+2018-07-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5671
+2018-08-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5634
+2018-09-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5258
+2018-10-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5158
+2018-11-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.514
+2018-12-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.534
+2019-01-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5056
+2019-02-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.505
+2019-03-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.528
+2019-04-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.534
+2019-05-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5338
+2019-06-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5509
+2019-07-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5562
+2019-08-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5291
+2019-09-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5411
+2019-10-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.535
+2019-11-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5242
+2019-12-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5197
+2020-01-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5255
+2020-02-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5216
+2020-03-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5158
+2020-04-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5759
+2020-05-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5727
+2020-06-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5285
+2020-07-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5548
+2020-08-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5609
+2020-09-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5696
+2020-10-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.573
+2020-11-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5622
+2020-12-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.557
+2021-01-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5633
+2021-02-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5663
+2021-03-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5641
+2021-04-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.547
+2021-05-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5583
+2021-06-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5603
+2021-07-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5506
+2021-08-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5671
+2021-09-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.6236
+2021-10-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.6102
+2021-11-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5873
+2021-12-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5336
+2022-01-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5485
+2022-02-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5346
+2022-03-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5188
+2022-04-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5111
+2022-05-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5423
+2022-06-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5377
+2022-07-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5056
+2022-08-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5113
+2022-09-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.5135
+2022-10-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.488
+2022-11-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.4967
+2022-12-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.4829
+2023-01-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.47
+2023-02-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.4874
+2023-03-15,Tamil Nadu-Chennai-Chennai-Sugar-KG-INR,0.4802
