@@ -119,7 +119,7 @@ async function fetch_csv(file_path) {
                 axios.get(CSV_list_data[countryiso3].csv_url, { responseType: 'stream' })
                     .then((response) => {
                         response.data.pipe(
-                            fs.createWriteStream(`${openplace}\\csv_countryios3\\${CSV_list_data[countryiso3].countryiso3}_${CSV_list_data[countryiso3].unix_start_date}_${CSV_list_data[countryiso3].unix_end_date}.csv`)
+                            fs.createWriteStream(`${openplace}\\csv_countryios3\\${CSV_list_data[countryiso3].countryiso3}_${new Date(CSV_list_data[countryiso3].unix_start_date * 1000).getFullYear()}_${new Date(CSV_list_data[countryiso3].unix_end_date * 1000).getFullYear()}.csv`)
                         ).on('finish', () => {
                             bar.tick(); // 每當下載完成一個檔案時更新進度條
                             resolve();
