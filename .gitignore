@@ -1,2 +1,7 @@
 dataset 
 csv_countryios3
+*.png
+*.csv
+/*.json
+!package-lock.json
+!package.json
