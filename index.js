@@ -28,7 +28,7 @@ const argv = yargs(hideBin(process.argv))
     .option('function', {
         alias: 'f',
         describe: '功能選擇',
-        choices: ['xlsx', 'csv', 'fetch_csv', 'normal_csv', 'keep', 'pick'], // 可選項目
+        choices: ['xlsx', 'csv', 'fetch_csv', 'normal_csv', 'keep'], // 可選項目
         demandOption: true // 要求必須輸入
     })
     .option('keep', {
