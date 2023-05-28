@@ -1,9 +1,14 @@
-# 繪製價格變化率圖函數
 plot_price_trend <- function(data, years, filename) {
-  price <- ts(as.numeric(data$price), start = min(years), freq = 12, end = max(years))
+
+  data$date <- as.Date(data$date)
+
+  # 提取指定年份的数据
+  subset_data <- subset(data, date >= as.Date(paste0(min(years), "-01-01")) & date <= as.Date(paste0(max(years), "-12-31")))
+
+  price <- ts(as.numeric(subset_data$price), start = min(years), freq = 12, end = max(years))
 
   # 設置繪圖設備
-  png(c(filename, ".png"), width = 1600, height = 2400, res = 200)
+  png(paste0(filename, "米價走勢.png"), width = 1600, height = 2400, res = 200)
 
   # 繪製價格變化率圖
   ts.plot(price, xlab = "Year", ylab = "Price", type = "l", main = filename, lty = c(1:2), gpars = list(xaxt = "n"))
@@ -13,13 +18,17 @@ plot_price_trend <- function(data, years, filename) {
   dev.off()
 }
 
-# 繪製價格變化率圖函數
 plot_price_variation <- function(data, years, filename) {
-  price <- ts(as.numeric(data$price), start = min(years), freq = 12, end = max(years))
+  data$date <- as.Date(data$date)
+
+  # 提取指定年份的数据
+  subset_data <- subset(data, date >= as.Date(paste0(min(years), "-01-01")) & date <= as.Date(paste0(max(years), "-12-31")))
+
+  price <- ts(as.numeric(subset_data$price), start = min(years), freq = 12, end = max(years))
   diff_ts <- (diff(price) / lag(price, 1)) * 100
 
   # 設置繪圖設備
-  png(c(filename, ".png"), width = 1600, height = 2400, res = 200)
+  png(paste0(filename, "米價走勢變化率.png"), width = 1600, height = 2400, res = 200)
 
   # 繪製價格變化率圖
   ts.plot(diff_ts, xlab = "Year", ylab = "Price_var (%)", type = "l", main = filename, lty = c(1:2), gpars = list(xaxt = "n"))
@@ -29,16 +38,124 @@ plot_price_variation <- function(data, years, filename) {
   dev.off()
 }
 
-lao <- read.csv("LAO_2006_2023_filter.csv", header = TRUE)
-years <- 2006:2023
+plot_population_trend <- function(data, years, filename) {
 
-plot_price_trend(lao, years, "寮國米價(次等的)走勢.png")
-plot_price_variation(lao, years, "寮國米價(次等的)走勢變化率.png")
+  data$Date <- as.Date(data$Date)
 
-# 2019_04_15 為缺失值，通過上下月份平均補上
+  # 提取指定年份的数据
+  subset_data <- subset(data, Date >= as.Date(paste0(min(years), "-01-01")) & Date <= as.Date(paste0(max(years), "-12-31")))
 
-mmr <- read.csv("MMR_2008_2023_filter.csv", header = TRUE)
-years <- 2008:2023
+  population <- ts(as.numeric(subset_data$Population), start = min(years), freq = 1, end = max(years))
 
-plot_price_trend(mmr, years, "緬甸米價(劣質的)走勢.png")
-plot_price_variation(mmr, years, "緬甸米價(劣質的)走勢變化率.png")
+  # 設置繪圖設備
+  png(paste0(filename, "人口走勢.png"), width = 1600, height = 2400, res = 200)
+
+  # 繪製價格變化率圖
+  ts.plot(population, xlab = "Year", ylab = "Population", type = "l", main = filename, lty = 1, gpars = list(xaxt = "n"))
+  axis(1, at = years)
+
+  # 關閉繪圖設備
+  dev.off()
+}
+
+plot_population_variation <- function(data, years, filename) {
+  data$Date <- as.Date(data$Date)
+
+  # 提取指定年份的数据
+  subset_data <- subset(data, Date >= as.Date(paste0(min(years), "-01-01")) & Date <= as.Date(paste0(max(years), "-12-31")))
+
+  population <- ts(as.numeric(subset_data$Population), start = min(years), freq = 2, end = max(years))
+  diff_ts <- (diff(population) / lag(population, 1)) * 100
+
+  # 設置繪圖設備
+  png(paste0(filename, "人口走勢變化率.png"), width = 1600, height = 2400, res = 200)
+
+  # 繪製價格變化率圖
+  ts.plot(diff_ts, xlab = "Year", ylab = "Population_var (%)", type = "l", main = filename, lty = 1, gpars = list(xaxt = "n"))
+  axis(1, at = years)
+
+  # 關閉繪圖設備
+  dev.off()
+}
+
+plot_union_variation <- function(data, data_2, years, filename) {
+  data_2$date <- as.Date(data_2$date)
+   # 提取指定年份的数据
+  subset_data_2 <- subset(data_2, date >= as.Date(paste0(min(years), "-01-01")) & date <= as.Date(paste0(max(years), "-12-31")))
+
+  price <- ts(as.numeric(subset_data_2$price), start = min(years), freq = 12, end = max(years))
+  diff_price_ts <- (diff(price) / lag(price, 1)) * 100
+
+  diff_price_halfyear <- aggregate(diff_price_ts, nfrequency = 2, FUN = mean)
+
+  # 创建一个频率为半年的时间序列对象
+  diff_price_freq <- ts(diff_price_halfyear, start = min(years)+0.5, freq = 2, end = max(years)-0.5)
+
+  data$Date <- as.Date(data$Date)
+
+  # 提取指定年份的数据
+  subset_data <- subset(data, Date >= as.Date(paste0(min(years), "-01-01")) & Date <= as.Date(paste0(max(years), "-12-31")))
+
+  population <- ts(as.numeric(subset_data$Population), start = min(years), freq = 2, end = max(years))
+  diff_population_ts <- (diff(population) / lag(population, 1)) * 100
+
+  union_ts <- ts.union(diff_population_ts, diff_price_freq)
+
+  # 設置繪圖設備
+  png(paste0(filename, "變化率圖_比較", ".png"), width = 2000, height = 1200, res = 200)
+
+  # 繪製價格變化率圖
+  par(mfcol=c(2, 1), mar=c(0, 4, 0, 2), oma=c(4, 2, 2, 2))
+  layout(matrix(c(1, 2), nrow = 2), heights = c(1, 1))
+
+  ts.plot(diff_price_freq, xlab = "", ylab = "Price_var (%)", type = "l", lty = 1, gpars = list(xaxt = "n"))
+  ts.plot(diff_population_ts, xlab = "Year", ylab = "Population_var (%)", type = "l", lty = 1, gpars = list(xaxt = "n"))
+  axis(1, at = years)
+  dev.off()
+
+  png(paste0(filename, "_ACF", ".png"), width = 1600, height = 2400, res = 200)
+
+  acf(union_ts)
+  dev.off()
+  png(paste0(filename, "_PACF", ".png"), width = 1600, height = 2400, res = 200)
+
+  pacf(union_ts)
+  dev.off()
+
+  png(paste0(filename, "_CCF", ".png"), width = 1600, height = 2400, res = 200)
+  ccf(diff_population_ts, diff_price_freq, type = "covariance", plot = TRUE, ylab = "cross-correlation")
+  dev.off()
+
+  # install.packages("Hmisc")  # 安装Hmisc包
+  library(Hmisc)
+  cor_result <- cor(union_ts, use = "everything",
+     method = "pearson")
+
+  print("相關係數")
+  print(cor_result)
+
+  rcorr_result <- rcorr(union_ts, type="pearson")
+
+  print("P-value")
+  print(rcorr_result$P)
+
+
+}
+
+generate_plot <- function(population_name, price_name, years, ios3) {
+  population_data <- read.csv(population_name, header = TRUE)
+  price_data <- read.csv(price_name, header = TRUE)
+  plot_union_variation(population_data, price_data, years, ios3)
+  plot_population_trend(population_data, years, ios3)
+  plot_population_variation(population_data, years, ios3)
+  plot_price_trend(price_data, years, ios3)
+  plot_price_variation(price_data, years, ios3)
+}
+
+years <- 2008:2021
+
+generate_plot("MMR.csv", "MMR_2008_2023_filter.csv", years, "緬甸")
+
+# 寮國 2019_04_15 為缺失值，通過上下月份平均補上
+
+generate_plot("LAO.csv", "LAO_2006_2023_filter.csv", years, "寮國")
