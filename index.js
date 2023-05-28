@@ -28,7 +28,7 @@ const argv = yargs(hideBin(process.argv))
     .option('function', {
         alias: 'f',
         describe: '功能選擇',
-        choices: ['xlsx', 'csv', 'fetch_csv', 'normal_csv', 'keep'], // 可選項目
+        choices: ['xlsx', 'csv', 'fetch_csv', 'normal_csv', 'keep', 'test'], // 可選項目
         demandOption: true // 要求必須輸入
     })
     .option('keep', {
@@ -64,13 +64,15 @@ switch (argv.function) {
         const conditions = [];
         if (argv.pick) {
             argv.pick.forEach(condition => {
-              const [field, valueStr] = condition.split('=');
-              const values = valueStr.split(';'); // 分割逗號分隔的值
-              conditions.push({ field, values });
+                const [field, valueStr] = condition.split('=');
+                const values = valueStr.split(';'); // 分割逗號分隔的值
+                conditions.push({ field, values });
             });
-          }
-        await keep(argv.input,conditions);
+        }
+        await keep(argv.input, conditions);
         break;
+    case 'test':
+        await test(argv.input)
     default:
         console.error(`未知的功能選擇：${argv.function}`);
         break;
@@ -86,15 +88,12 @@ async function app_xlsx(file_path) {
         let XLSX_data = await parseXLSX(file_path, 17);
         const emptyCountryISO3 = [];
         emptyCountryISO3.push(XLSX_data[0]);
-        const nonEmptyCountryISO3 = XLSX_data.reduce((obj, item) => {
+        const nonEmptyCountryISO3 = [];
+        XLSX_data.reduce((obj, item) => {
             if (!item.F) {
                 emptyCountryISO3.push(item);
             } else {
-                if (item.F === "ISO3 Alpha-code") {
-                    obj["template"] = item;
-                } else {
-                    obj[item.F] = item;
-                }
+                nonEmptyCountryISO3.push(item);
             }
             return obj;
         }, {});
@@ -138,40 +137,83 @@ async function app_normal_csv(file_path) {
 
 function calculateAveragePrice(data) {
     const groupedData = {};
-  
+
     // 分組計算總價格和數量
     for (const item of data) {
-      const { date, price } = item;
-  
-      if (!groupedData[date]) {
-        groupedData[date] = {
-          totalPrice: parseFloat(price),
-          count: 1
-        };
-      } else {
-        groupedData[date].totalPrice += parseFloat(price);
-        groupedData[date].count++;
-      }
+        const { date, price } = item;
+
+        if (!groupedData[date]) {
+            groupedData[date] = {
+                totalPrice: parseFloat(price),
+                count: 1
+            };
+        } else {
+            groupedData[date].totalPrice += parseFloat(price);
+            groupedData[date].count++;
+        }
     }
-  
+
     const updatedData = [];
-  
+
     // 計算平均價格並更新原始物件
     for (const item of data) {
-      const { date } = item;
-  
-      if (groupedData[date]) {
-        const averagePrice = groupedData[date].totalPrice / groupedData[date].count;
-        item.price = averagePrice.toFixed(2);
-        updatedData.push(item);
-        delete groupedData[date];
-      }
-    }
-  
-    return updatedData;
-  }
+        const { date, price } = item;
 
-async function keep(file_path,conditions) {
+        if (groupedData[date]) {
+            const averagePrice = groupedData[date].totalPrice / groupedData[date].count;
+            item.price = averagePrice.toFixed(2);
+            updatedData.push(item);
+            delete groupedData[date];
+        } else if (!price) {
+            updatedData.push(item);
+        }
+    }
+
+
+    return updatedData;
+}
+
+function replaceKeysWithDates(array) {
+    const merged = array.reduce((result, obj) => {
+        const { F, K, L, M, ...rest } = obj;
+
+        if (typeof F === 'string' && F.length > 0 && /^\d{4}$/.test(K)) {
+            if (!result[F]) {
+                result[F] = { ios3: F, data: [] };
+            }
+
+            const year = K.toString();
+
+            const updatedObj = {
+                [year + '-01-01']: L,
+                [year + '-06-01']: M,
+                ...rest
+            };
+
+            result[F].data.push(updatedObj);
+        }
+
+        return result;
+    }, {});
+
+    return Object.values(merged).map(({ ios3, data }) => {
+        const mergedObj = data.reduce((result, obj) => {
+            Object.entries(obj).forEach(([key, value]) => {
+                if (result.hasOwnProperty(key)) {
+                    result[key] += value;
+                } else {
+                    result[key] = value;
+                }
+            });
+
+            return result;
+        }, {});
+
+        return { ios3, ...mergedObj };
+    });
+}
+
+async function keep(file_path, conditions) {
 
     try {
         console.log(file_path)
@@ -185,22 +227,31 @@ async function keep(file_path,conditions) {
                     return newObj;
                 }, {})
         );
-        const header = Object.keys(filteredArray[0]).map(key => ({
+        const filterByConditions = (item, conditions) => {
+            for (const condition of conditions) {
+                const { field, values } = condition;
+                if (!values.includes(item[field])) {
+                    return false;
+                }
+            }
+            return true;
+        };
+        const filteredData = filteredArray.filter(item => filterByConditions(item, conditions));
+
+        let result = filteredData;
+
+        if (filteredData[0].price) {
+            result = calculateAveragePrice(filteredData);
+        }
+
+        if (filteredData[0].F) {
+            result = replaceKeysWithDates(filteredData);
+        }
+
+        const header = Object.keys(result[0]).map(key => ({
             id: key,
             title: key  // 可以根據需要進行標題的修改
         }));
-        const filterByConditions = (item, conditions) => {
-            for (const condition of conditions) {
-              const { field, values } = condition;
-              if (!values.includes(item[field])) {
-                return false;
-              }
-            }
-            return true;
-          };
-        const filteredData = filteredArray.filter(item => filterByConditions(item, conditions));
-
-        let result = await calculateAveragePrice(filteredData);
 
         const writer = csvWriter({
             path: path.join(openplace, `${path.parse(file_path).name}_filter.csv`),
@@ -219,7 +270,6 @@ async function keep(file_path,conditions) {
 
 
 }
-
 
 async function fetch_csv(file_path) {
 
@@ -271,6 +321,29 @@ async function fetch_csv(file_path) {
     } catch (err) {
         console.log(err);
     }
+
+
+}
+
+async function test(file_path) {
+    let CSV_list_data = JSON.parse(fs.readFileSync(file_path, 'utf8').toString());
+
+    CSV_list_data.forEach(obj => {
+        const { ios3, ...rest } = obj;
+        const writer = csvWriter({
+            path: `${ios3}.csv`,
+            header: [
+                { id: 'date', title: 'Date' },
+                { id: 'population', title: 'Population' }
+            ]
+        });
+
+        const records = Object.entries(rest).map(([date, population]) => ({ date, population }));
+
+        writer.writeRecords(records)
+            .then(() => console.log(`CSV file ${ios3}.csv created successfully.`))
+            .catch(error => console.error(`Error creating CSV file ${ios3}.csv: ${error}`));
+    });
 
 
 }
