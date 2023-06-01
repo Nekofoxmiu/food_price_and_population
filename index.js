@@ -73,6 +73,7 @@ switch (argv.function) {
         break;
     case 'test':
         await test(argv.input)
+        break;
     default:
         console.error(`未知的功能選擇：${argv.function}`);
         break;
@@ -326,24 +327,27 @@ async function fetch_csv(file_path) {
 }
 
 async function test(file_path) {
-    let CSV_list_data = JSON.parse(fs.readFileSync(file_path, 'utf8').toString());
+    // let CSV_list_data = JSON.parse(fs.readFileSync(file_path, 'utf8').toString());
 
-    CSV_list_data.forEach(obj => {
-        const { ios3, ...rest } = obj;
-        const writer = csvWriter({
-            path: `${ios3}.csv`,
-            header: [
-                { id: 'date', title: 'Date' },
-                { id: 'population', title: 'Population' }
-            ]
-        });
+    // CSV_list_data.forEach(obj => {
+    //     const { ios3, ...rest } = obj;
+    //     const writer = csvWriter({
+    //         path: `${ios3}.csv`,
+    //         header: [
+    //             { id: 'date', title: 'Date' },
+    //             { id: 'population', title: 'Population' }
+    //         ]
+    //     });
 
-        const records = Object.entries(rest).map(([date, population]) => ({ date, population }));
+    //     const records = Object.entries(rest).map(([date, population]) => ({ date, population }));
 
-        writer.writeRecords(records)
-            .then(() => console.log(`CSV file ${ios3}.csv created successfully.`))
-            .catch(error => console.error(`Error creating CSV file ${ios3}.csv: ${error}`));
-    });
+    //     writer.writeRecords(records)
+    //         .then(() => console.log(`CSV file ${ios3}.csv created successfully.`))
+    //         .catch(error => console.error(`Error creating CSV file ${ios3}.csv: ${error}`));
+    // });
 
-
+    let obj = JSON.parse(fs.readFileSync(file_path, 'utf8').toString());
+    const filteredArray = obj.comments.filter(obj => obj.commenter.display_name === "厄倫蒂兒");
+    obj.comments = filteredArray;
+    fs.writeFileSync(path.join(openplace, `${path.parse(file_path).name}_format.json`), JSON.stringify(obj, null, "    "));
 }
